@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://example.com/awesome_logo.png" alt="AwesomeTech Solutions Logo" width="300px">
 </div>
-Welcome to the official GitHub profile of **Sofrosyn Labs**! As a premier software company, we excel in the art of **web and mobile application development**. At Sofrosyn Labs, our dedicated team of skilled developers is passionately committed to delivering nothing short of **exceptional, high-quality, scalable, and user-friendly solutions** that cater to our clients' unique business needs.
+Welcome to the official GitHub profile of **Sofrosyn Labs**! As a premier software company, we excel in the art of **web and mobile application development**. At Sofrosyn Labs, our dedicated team of skilled developers is passionately committed to delivering nothing short of **exceptional, high-quality, scalable, and user-friendly solutions** that cater to our client's unique business needs.
 
 ## Why Choose Sofrosyn Labs?
 
